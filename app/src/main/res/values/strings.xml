@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kleinanzeigen Coding Challenge</string>
+    <string name="app_name">Android MVVM Project</string>
     <string name="error_in_loading_data">Error in loading data</string>
     <string name="ad_info_fragment_title">Advertisement Information</string>
     <string name="title_activity_show_image">ShowImageActivity</string>
