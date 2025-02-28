@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kleinanzeigen Coding Challenge</string>
+    <string name="error_in_loading_data">Error in loading data</string>
+    <string name="ad_info_fragment_title">Advertisement Information</string>
+    <string name="title_activity_show_image">ShowImageActivity</string>
+    <string name="show_image_title">Show Full Size Image</string>
+    <string name="share_image_msg">Werbebild teilen</string>
+    <string name="title_features">Ausstattung</string>
+    <string name="title_details">Details</string>
+    <string name="title_more_information">Weitere Informationen</string>
+    <string name="title_description">Beschreibung</string>
+    <string name="app_title">Kleinanzeigen</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="error_state">Error State</string>
+    <string name="image_slide">Image Slide</string>
+    <string name="full_size_image">Full Size Image</string>
+    <string name="close">schließen</string>
+    <string name="check_mark">Check Mark</string>
+    <string name="document">Documents</string>
+    <string name="chevron">Chevron</string>
+
+    <string name="navigation_package_name">com.google.android.apps.maps</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="calendar">Calander</string>
+    <string name="visits_count">Visits Count</string>
+    <string name="retry">wiederholen</string>
+    <string name="error_state_msg">etwas ist schiefgelaufen</string>
+</resources>
